@@ -5,3 +5,5 @@ This repository contains my Numerical Analysis lab programs in c++
 ## Programs
 - Bisection Method
 - Neuton-Raphson Method 
+-False Position Method
+-Secant Method
